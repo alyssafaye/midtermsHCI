@@ -1,0 +1,23 @@
+<html>
+	<head>
+		<title> Registration Form </title>
+		<link rel="stylesheet" href="style.css">
+	</head>
+	<div class="login-box">
+		<h1>Login</h1>
+		<div class="textbox">
+			<input type="text" name="" value="">
+	</div>
+
+	<div class="textbox">
+		<input type="password" placeholder="Password" name="" value="">
+</div>
+
+<input class="btn" type="button" name="" value="Sign in">
+<a href="#">Don't have an account?</a>
+
+</div>
+	</body>
+
+
+</html>
